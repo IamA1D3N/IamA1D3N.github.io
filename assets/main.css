@@ -737,6 +737,7 @@ a:hover {
   position: absolute;
   display: flex;
   left: 50%;
+  top: 80%;
 }
 .icon-scroll {
   width: 40px;
